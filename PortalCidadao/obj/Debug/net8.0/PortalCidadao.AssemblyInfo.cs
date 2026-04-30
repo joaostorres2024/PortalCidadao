@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortalCidadao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a30dcb6fa96ed76efd8c08735f9ce196c26dab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b681edeabc45cb9badf9f7d3a790e7ef61aab65a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortalCidadao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortalCidadao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
