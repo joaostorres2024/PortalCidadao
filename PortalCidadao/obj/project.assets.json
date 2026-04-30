@@ -34,6 +34,7 @@
       "sources": {
         "C:\\Program Files\\dotnet\\library-packs": {},
         "http://nuget.geap.com.br/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
         "https://packagesource": {},
         "https://pkgs.dev.azure.com/geap/Geap.Architecture/_packaging/core-nuget/nuget/v3/index.json": {},
         "https://pkgs.dev.azure.com/geap/_packaging/nuget-geap/nuget/v3/index.json": {}
